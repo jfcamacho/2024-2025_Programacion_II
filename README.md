@@ -1,0 +1,2 @@
+# PROGRAMACIÓN II - UNIVERSIDAD NACIONAL DE LOJA - *2024 -- 2025 ELECTRCIDAD*
+[DANGER] ### La información que se presenta en este apartado es explicitamente informativa y colaborativa en base ha argumentos trabajados como prácticas

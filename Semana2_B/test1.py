@@ -1,9 +1,14 @@
 class Animal:
-    pais = 'Ecuador'
     ### Constructor
     def __init__(self, ecosistema):
         self.ecosistema = ecosistema
-        self.pais = self.pais
+        self.pais = 'Ecuador'
+    
+    def metodo_1(self):
+        print('HA accedido al método 1')
+        
+    def metodo_1(self):
+        print('HA accedido al método 1')
 
 
 pez = Animal('Terrestre')
