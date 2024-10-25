@@ -8,6 +8,7 @@ class Menu:
         print('4.- Division')
         print('5.- Potencia')
         print('10.- Salir')
+        
         return int(input('Ingrese un valor.: '))
     
     def sub_menu(self):
